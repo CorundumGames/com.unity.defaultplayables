@@ -1,0 +1,19 @@
+{
+    "name": "Unity.DefaultPlayables.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:299ad4e71aea461498edf2763a462196",
+        "GUID:f06555f75b070af458a003d92f9efb00"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

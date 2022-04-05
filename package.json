@@ -1,0 +1,14 @@
+{
+  "name": "com.unity.defaultplayables",
+  "version": "1.8.0",
+  "displayName": "Default Playables",
+  "description": "A UPM-compatible package for Unity Default Playables. If you work for Unity and would like to take over this repository, contact me at director@corundum.games and I'll transfer ownership to the company.",
+  "dependencies": {
+    "com.unity.timeline": "1.6.4",
+    "com.unity.modules.director": "1.0.0"
+  },
+  "author": {
+    "name": "Unity Technologies",
+    "url": "https://unity.com"
+  }
+}

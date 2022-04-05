@@ -1,0 +1,24 @@
+{
+    "name": "Unity.DefaultPlayables",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f06555f75b070af458a003d92f9efb00"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "PLAYABLE_DIRECTOR_ENABLED"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.director",
+            "expression": "1.0.0",
+            "define": "PLAYABLE_DIRECTOR_ENABLED"
+        }
+    ],
+    "noEngineReferences": false
+}

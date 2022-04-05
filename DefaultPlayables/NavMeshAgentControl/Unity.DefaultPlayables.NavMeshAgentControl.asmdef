@@ -1,0 +1,24 @@
+{
+    "name": "Unity.DefaultPlayables.NavMeshAgentControl",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f06555f75b070af458a003d92f9efb00"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_DEFAULT_PLAYABLES_AI"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.unity.modules.ai",
+            "expression": "1.0.0",
+            "define": "UNITY_DEFAULT_PLAYABLES_AI"
+        }
+    ],
+    "noEngineReferences": false
+}
